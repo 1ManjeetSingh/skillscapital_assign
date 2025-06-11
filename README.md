@@ -43,21 +43,25 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 ## Explanation of project structure and approach
 
-*1st part of assignment(Figma file -> final designs -> SkillsCapital_Ai_Powered_Vetting_PageDesign):*
+##1st part of assignment(Figma file -> final designs -> SkillsCapital_Ai_Powered_Vetting_PageDesign)
+
+#Approach
+
 This project is a responsive web page layout structured into three main sections:
 
 - **Navbar**
 - **Main Content Area**
 - **Footer**
 
-## Features
+#Features
 
 - Fully responsive layout (currently optimized for desktop viewports)
 - Structured using Flexbox for flexible and adaptive design
 - Styling, spacing, and colors implemented according to the provided Figma design
 
-*2nd part of assignment(hospitality_assignment):*
-## Approach
+##2nd part of assignment(hospitality_assignment)
+
+# Approach
 
 - Data fetched from the file "hospitality_assignment_data.json"
 - Designed UI for fixed keys in the data.
@@ -65,7 +69,7 @@ This project is a responsive web page layout structured into three main sections
 - used useState, useEffect, filter, and input to implement filter functionality in the data
 
 
-## Features
+# Features
 
 - Fully responsive layout
 - User can filter data according to Year or PropertyType
