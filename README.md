@@ -43,9 +43,9 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 ## Explanation of project structure and approach
 
-##1st part of assignment(Figma file -> final designs -> SkillsCapital_Ai_Powered_Vetting_PageDesign)
+## 1st part of assignment(Figma file -> final designs -> SkillsCapital_Ai_Powered_Vetting_PageDesign)
 
-#Approach
+# Approach
 
 This project is a responsive web page layout structured into three main sections:
 
@@ -53,13 +53,13 @@ This project is a responsive web page layout structured into three main sections
 - **Main Content Area**
 - **Footer**
 
-#Features
+# Features
 
 - Fully responsive layout (currently optimized for desktop viewports)
 - Structured using Flexbox for flexible and adaptive design
 - Styling, spacing, and colors implemented according to the provided Figma design
 
-##2nd part of assignment(hospitality_assignment)
+## 2nd part of assignment(hospitality_assignment)
 
 # Approach
 
