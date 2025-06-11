@@ -11,7 +11,7 @@ git clone https://github.com/1ManjeetSingh/skillscapital_assign.git
 Navigate to the project root folder
 
 ```bash
-cd your_project_folder
+cd skillscapital_assign
 ```
 
 Install dependencies using your preferred package manager:
